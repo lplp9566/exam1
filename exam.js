@@ -307,7 +307,11 @@ function Mission4( FirearmObject,unit){
     
 
 }
-console.log(Mission4(militaryUnit))
+module.exports={
+    Mission1,
+    Mission2,
+    Mission3
+}
 
  
 
